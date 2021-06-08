@@ -1,2 +1,4 @@
-github.com/MGL-coder/library v1.0.1 h1:NExpNOxuVq14LfrZffQhKDS3t5OnFxiwyxORcJYHpHw=
-github.com/MGL-coder/library v1.0.1/go.mod h1:CbZ8buITExKCE6/V+VWwNqxR4oAROXFXTbl87H2BV+A=
+github.com/MGL-coder/library v1.0.2 h1:8Y5Zy8aX6u0RaPixmHKV6B8yi73Kh/dkPjCj6nT06LY=
+github.com/MGL-coder/library v1.0.2/go.mod h1:8LWif9c82oikohqPP9vbDYAnRn3A2SJ38GUuKnP4pJ0=
+github.com/agext/uuid v1.1.0 h1:zrfmDqBGnwdHJj2/5uRoEsh5eHEzqzCKii+y86TrA5o=
+github.com/agext/uuid v1.1.0/go.mod h1:S35kGCagARSdmRVLoWmwmevvhFsiZkmtEqdw4hcDePs=
